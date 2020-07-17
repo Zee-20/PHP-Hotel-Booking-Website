@@ -1,0 +1,12 @@
+
+
+PHP based website for hotel booking and management.
+
+
+*******************************
+
+Database Name : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+type the credential only if asked (usually not required)
