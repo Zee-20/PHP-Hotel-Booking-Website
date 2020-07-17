@@ -4,5 +4,5 @@ Language used for back-end PHP.
 \
 Database used storing information MYSQL.
 \
-Designed using JavaScript, HTML and CSS.
+Website UI designed using JavaScript, HTML and CSS.
 
