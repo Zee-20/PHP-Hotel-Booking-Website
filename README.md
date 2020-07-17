@@ -1,8 +1,8 @@
 # PHP Website for Hotel Room Booking 
 
-Language used PHP.
+Language used for back-end PHP.
 \
-Database used MYSQL.
+Database used storing information MYSQL.
 \
 Designed using JavaScript, HTML and CSS.
 
