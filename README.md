@@ -2,5 +2,7 @@
 
 Language used PHP.
 \
+Database used MYSQL.
+\
 Designed using JavaScript, HTML and CSS.
 
