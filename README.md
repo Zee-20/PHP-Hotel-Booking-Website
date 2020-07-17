@@ -2,7 +2,7 @@
 
 Language used for back-end PHP.
 
-Database used storing information MYSQL.
+Database used for storing information MYSQL.
 
 Website UI designed using JavaScript, HTML and CSS.
 
